@@ -1,15 +1,13 @@
 # Interviewing Candidates with Guest Mode
 
-You can use Replit to conduct technical interviews. The Teams Pro guest feature lets you pair prorgram with candidates so you can work with them or observe them in real time.
+You can use Replit to conduct technical interviews. The Teams Pro guest feature lets you pair program with candidates so you can work with them or observe them in real time.
 
 This tutorial will provide a step-by-step guide on how to conduct a technical interview using Teams Pro. Watch the video or read the text below.
 
 <div class="video-container" style="text-align: center;margin: 30px 0;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pOOdoXUu5SI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Steps to follow:
-
-We'll cover how to:
+In this tutorial, we'll cover how to:
 
 - Create a repl
 - Invite candidates
@@ -40,7 +38,7 @@ Once you have written your challenges, you can invite candidates by clicking on 
     alt="repl invitation"
     style="width: 90% !important;"/>
 
-You can invite candidates by email directly or by you can generate a join link to share with candidates. Candidates will get a notification of the invite. They will need to sign up for a Replit account before they can accept the invite to the team repl.
+You can invite candidates by entering their email address or you can generate a join link to share with candidates. Candidates will get a notification of the invite. They will need to sign up for a Replit account before they can accept the invite to the team repl.
 
 
 <img src="/images/teamsPro/interviewing-candidates-tutorial-images/notification.png"
@@ -49,7 +47,7 @@ You can invite candidates by email directly or by you can generate a join link t
 
 ## Step 3 - Observe candidates
 
-Once candidates join the interview, they will be able to access the challenges in the provided files (e.g. `main.py`) in read and write mode.
+Once candidates join the interview repl, they will be able to access the challenges in the provided files (e.g. `main.py`) in read and write mode.
 
 You as the interviewer can observe the candidates as they complete the challenges.
 
@@ -61,12 +59,12 @@ Candidates can also view your IDE in the same way. This lets them see the change
 
 ![candidate_screen](/images/teamsPro/interviewing-candidates-tutorial-images/candidate_screen.png)
 
-## Remove candidate access
+## Step 4 - Remove candidate access
 
-To remove candidates from interview repls so they cannot access the interview once it is complete, click on the `invite` button and on the pop-up window, find the candidates name or email.
+To remove candidates from interview repls so they cannot access the interview once it is complete, click on the `Invite` button and on the pop-up, find the candidate's name.
 
 <img src="static/images/teamsPro/interviewing-candidates-tutorial-images/remove-candidates.png"
     alt="remove candidate access"
     style="width: 90% !important;"/>
 
-Once you find the candidate, click on the `x` next to their name and they will be removed from the interview and they will no longer be able to access invite link.
+Click on the `x` next to their name and they will be removed from the interview. They will no longer be able to access the repl via invite link.
